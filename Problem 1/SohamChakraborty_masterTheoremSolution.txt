@@ -1,0 +1,12 @@
+a) T (n) = 3T (n/2) + n 
+b) T (n) = 64T (n/8) − n^2(log n) 
+c) T (n) = 2nT (n/2) + n^n 
+d) T (n) = 3T (n/3) + n/2 
+e) T (n) = 7T (n/3) + n^2
+
+ANSWERS:
+a) Θ(n)
+b) Θ(n^2(logn)^2) 
+c) Θ(n^n)
+d) Θ(nlogn)
+e) Θ(n^2)
